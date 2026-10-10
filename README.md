@@ -188,9 +188,11 @@ Use **Kernel > Restart & Run All** to run every cell in order. Training takes ro
 
 ## Acknowledgements
 
-- The dataset is [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) by Zalando Research.
-- The project is based on a lab from the IBM Skills Network course series.
+- **Course:** Completed as part of the IBM AI Engineering course (IBM Skills Network).
+- **Lab template:** The project structure and instructions come from the IBM Skills Network lab. The notebook's instructional text and starter code are © IBM Corporation, with the authors named in the notebook.
+- **My work:** I wrote the transforms, the dataset loading, the optimizer and loss setup, and the analysis, then trained and evaluated the model.
+- **Dataset:** [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) by Zalando Research.
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+My code is released under the [MIT License](LICENSE). The lab instructions and starter code remain © IBM Corporation.
